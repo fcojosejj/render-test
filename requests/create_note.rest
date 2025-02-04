@@ -1,0 +1,7 @@
+POST http://localhost:3001/api/notes
+Content-Type: application/json
+
+{
+  "content": "Talented API Tester is good in testing backed",
+  "important": true
+}
